@@ -148,8 +148,6 @@
     <!-- Define device configs on boot -->
     <java-symbol type="array" name="global_device_configs_override" />
     <java-symbol type="array" name="device_configs_override" />
-    <java-symbol type="array" name="device_configs_propertyToKeep" />
-    <java-symbol type="array" name="device_configs_modifyAllowedPackages" />
 
     <!-- Path to fast charging status file to detect whether an oem fast charger is active -->
     <java-symbol type="string" name="config_oemFastChargerStatusPath" />
